@@ -43,6 +43,9 @@ payload:
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,yunjiasu-cdn.net
+  # > Battle
+  - DOMAIN-SUFFIX,battle.net,DIRECT
+  - DOMAIN-SUFFIX,blizzard.com,DIRECT
   # > bilibili
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,biliapi.com
@@ -339,7 +342,6 @@ payload:
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,tianyancha.com
   - DOMAIN-SUFFIX,tophub.today
-  - DOMAIN-SUFFIX,udacity.com
   - DOMAIN-SUFFIX,uning.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,weico.cc

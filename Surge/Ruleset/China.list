@@ -42,6 +42,9 @@ DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
+# > Battle
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
 # > bilibili
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,biliapi.com
@@ -105,8 +108,6 @@ DOMAIN-SUFFIX,xiaomi.net
 # DOMAIN-SUFFIX,office365.com
 # DOMAIN-SUFFIX,s-microsoft.com
 # DOMAIN-SUFFIX,windows.com
-# DOMAIN-SUFFIX,windowsupdate.com
-# DOMAIN-KEYWORD,-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,visualstudio.com
 # >> Microsoft Software Download
 # DOMAIN,software-download.microsoft.com
@@ -160,7 +161,7 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 # > Tencent
-USER-AGENT,MicroMessenger%20Client
+USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 DOMAIN-SUFFIX,gtimg.com
@@ -339,7 +340,6 @@ DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,tophub.today
-DOMAIN-SUFFIX,udacity.com
 DOMAIN-SUFFIX,uning.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weico.cc
